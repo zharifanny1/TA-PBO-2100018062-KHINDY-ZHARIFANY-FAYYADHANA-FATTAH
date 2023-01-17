@@ -1,0 +1,10 @@
+Struk                : 1
+ID Penyewa           : 1
+Nama Penyewa         : 1
+ID Motor             : 1
+Tanggal Rental       : 1
+Tanggal Pengembalian : 1
+Jumlah Rental        : 1
+Nama Motor           : 1
+Pabrikan Motor       : 1
+Warna Motor          : 1
